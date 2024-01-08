@@ -1,0 +1,134 @@
+{   "home": [
+        "Hello, welcome to my vueJs Portfolio. I am Aakeefah Jones, Software Engineer student at Life Choices academy. My hobbies include cooking, gaming, coding, reading and writing. Pursuing one of those hobbies ended up working for me. Take a guess at which one I chose."
+    ],
+    "about": [
+        "Hi! My name is Aakeefah Jones. I am an 18 year old Full-Stack Developer who thrives in Frontend Developing. My current skills include HTML 5, CSS, JavaScript, and vueJS. My coding journey began back in 2020 where I took CAT as a subject and had to learn about coding for the final part of our Practical Assignments.",
+        "After graduating high school, I took it upon myself to apply for Life Choices coding academy and was successful on the first try. With a few bumps on the road, I found myself able to cope and learn in ways I never thought possible. The coding academy has taught me and continues to teach me all about different ways to interpret languages and what to do with them. This resulted in me growing in more ways than one because the academy teaches you about more than just coding and programming languages but about yourself and how to set goals, maintain good lifetyles and how to go about everyday experiences."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2023,
+            "description": "Studied Web Development",
+            "place": "Life Choices",
+            "type": "Still Acquiring..."
+        },
+        {
+            "id": 2,
+            "year": 2022,
+            "description": "Matric - Grade 12",
+            "place": "Glendale Secondary School",
+            "type": "Certificate"
+        },
+        {
+            "id": 3,
+            "year": 2017,
+            "description": "Graduated Primary School",
+            "place": "Spineview Primary School",
+            "type": "Certificate"
+        }
+    ],
+    "skills": [
+        {
+            "title": "HTML 5",
+            "experience": "Advanced"
+        },
+        {
+            "title": "CSS",
+            "experience": "Advanced"
+        },
+        {
+            "title": "Bootstrap",
+            "experience": "Advanced"
+        },
+        {
+            "title": "Vue 3",
+            "experience": "Novice"
+        },
+        {
+            "title": "JavaScript",
+            "experience": "Advanced"
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Ni-Shaat",
+            "surname": "Gafieldien",
+            "title": "Student",
+            "quotes": "Joel never ceases to amaze me with the vast amount of knowledge he has acquired over the years in software development. He is truly a great mentor.",
+            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+        },
+        {
+            "name": "Zubair",
+            "surname": "Moerat",
+            "title": "Student",
+            "quotes": "Joel is a nice person. Someone who is really reliable and honest always does his work and makes sure everything is well organized.",
+            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+        },
+        {
+            "name": "Corne",
+            "surname": "Balie",
+            "title": "Student",
+            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Muttaqeen",
+            "surname": "Slamat",
+            "title": "Student",
+            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Al-Muakhir",
+            "surname": "Jones",
+            "title": "Student",
+            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Matthew",
+            "surname": "Brown",
+            "title": "Lecturer",
+            "quotes": "Joel Tshimanga Mukunya is an incredibly humble intellectual. He is an outstanding lecturer who consistently finds effective ways to ensure that everyone comprehends the content. Additionally, he has a delightful personality, making him a joy to be around.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        }
+    ],
+    "projects":[
+        {
+            "name": "BMI Calculator",
+            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
+            "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
+            "netlify": "https://joel-todo-list.netlify.app/"
+        },
+        {
+            "name": "Calculator",
+            "description": "I built this application using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
+            "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
+            "netlify": "https://regexpcalculator.netlify.app/"
+        },
+        {
+            "name": "Netflix Clone",
+            "description": "I cloned netflix using HTML 5, CSS 3, and Bootstrap.",
+            "image": "...",
+            "gitHub": "https://github.com/keeefles/netflix.git",
+            "netlify": "https://6541583d31c39a4eaa803fc4--aakeefahs-netflix.netlify.app/"
+        },
+        {
+            "name": "JT Laptop",
+            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
+            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
+            "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
+            "netlify": "https://jtlaptops.netlify.app/"
+        },
+        {
+            "name": "JS Portfolio",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
+            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
+            "netlify": "https://joeljsportfolio.netlify.app/"
+        }
+    ]
+}
