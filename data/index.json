@@ -5,23 +5,30 @@
         "Hi! My name is Aakeefah Jones. I am an 18 year old Full-Stack Developer who thrives in Frontend Developing. My current skills include HTML 5, CSS, JavaScript, and vueJS. My coding journey began back in 2020 where I took CAT as a subject and had to learn about coding for the final part of our Practical Assignments.",
         "After graduating high school, I took it upon myself to apply for Life Choices coding academy and was successful on the first try. With a few bumps on the road, I found myself able to cope and learn in ways I never thought possible. The coding academy has taught me and continues to teach me all about different ways to interpret languages and what to do with them. This resulted in me growing in more ways than one because the academy teaches you about more than just coding and programming languages but about yourself and how to set goals, maintain good lifetyles and how to go about everyday experiences."
     ],
-    "education": [
+    "resume": [
         {
             "id": 1,
             "year": 2023,
             "description": "Studied Web Development",
             "place": "Life Choices",
-            "type": "Still Acquiring..."
+            "type": "Currently Acquiring Certificate..."
         },
         {
             "id": 2,
+            "year": 2023,
+            "description": "Sales Representative",
+            "place": "Crescent Lifestyle",
+            "type": "Job"
+        },
+        {
+            "id": 3,
             "year": 2022,
             "description": "Matric - Grade 12",
             "place": "Glendale Secondary School",
             "type": "Certificate"
         },
         {
-            "id": 3,
+            "id": 4,
             "year": 2017,
             "description": "Graduated Primary School",
             "place": "Spineview Primary School",
@@ -63,28 +70,28 @@
             "surname": "Moerat",
             "title": "Student",
             "quotes": "Joel is a nice person. Someone who is really reliable and honest always does his work and makes sure everything is well organized.",
-            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+            "profile": ""
         },
         {
-            "name": "Corne",
-            "surname": "Balie",
+            "name": "Tamlin Leigh",
+            "surname": "Geyer",
             "title": "Student",
             "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies.",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "profile": ""
         },
         {
             "name": "Muttaqeen",
             "surname": "Slamat",
             "title": "Student",
             "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies.",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "profile": ""
         },
         {
             "name": "Al-Muakhir",
             "surname": "Jones",
             "title": "Student",
             "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies.",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "profile": ""
         },
         {
             "name": "Matthew",
