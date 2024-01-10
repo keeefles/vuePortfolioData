@@ -111,28 +111,28 @@
         {
             "name": "Calculator",
             "description": "I built this application using HTML 5, CSS, Javascript, and Bootstrap.",
-            "image": "https://i.postimg.cc/DZ7yGSxn/Screenshot-2023-11-01-205851.png",
+            "image": "https://iili.io/J74paKG.md.png",
             "gitHub": "https://github.com/keeefles/Calculator.git",
-            "netlify": "https://6539193e035aac1a528add9d--mycalculatorrr.netlify.app/"
+            "netlify": "https://mycalculatorrr.netlify.app"
         },
         {
             "name": "Netflix Clone",
             "description": "I cloned netflix using HTML 5, CSS, and Bootstrap.",
-            "image": "https://i.postimg.cc/rpV4yNbj/Screenshot-2023-10-31-215447.png",
+            "image": "https://iili.io/J74mU6G.md.png",
             "gitHub": "https://github.com/keeefles/netflix.git",
             "netlify": "https://6541583d31c39a4eaa803fc4--aakeefahs-netflix.netlify.app/"
         },
         {
             "name": "Home Appeal",
             "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
-            "image": "https://i.postimg.cc/4yq6msXL/Screenshot-2024-01-10-100220.png",
+            "image": "https://iili.io/J74mCpS.md.png",
             "gitHub": "https://github.com/keeefles/theHomeStore.git",
             "netlify": "https://aakeefah-homeappeal.netlify.app"
         },
         {
             "name": "Keyboard",
             "description": "I built my portfolio using HTML 5 and CSS",
-            "image": "https://i.postimg.cc/hG4KZxL5/Screenshot-2023-11-01-095331.png",
+            "image": "https://iili.io/J74DtO7.md.png",
             "gitHub": "https://github.com/keeefles/keyboard.git",
             "netlify": "https://6539266817649800075ac079--mykeyboardd.netlify.app/"
         }
