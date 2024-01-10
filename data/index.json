@@ -102,39 +102,39 @@
     ],
     "projects":[
         {
-            "name": "BMI Calculator",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "https://i.postimg.cc/bJvVZBhx/2.png",
-            "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
-            "netlify": "https://joel-todo-list.netlify.app/"
+            "name": "Counter-App",
+            "description": "I built this application using HTML 5, CSS, vue 3 and Javascript.",
+            "image": "https://i.postimg.cc/2SVy8M6J/Screenshot-2024-01-10-100605.png",
+            "gitHub": "https://github.com/keeefles/counterApp.git",
+            "netlify": "https://keeefles-counterapp.netlify.app"
         },
         {
             "name": "Calculator",
-            "description": "I built this application using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
-            "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
-            "netlify": "https://regexpcalculator.netlify.app/"
+            "description": "I built this application using HTML 5, CSS, Javascript, and Bootstrap.",
+            "image": "https://i.postimg.cc/DZ7yGSxn/Screenshot-2023-11-01-205851.png",
+            "gitHub": "https://github.com/keeefles/Calculator.git",
+            "netlify": "https://6539193e035aac1a528add9d--mycalculatorrr.netlify.app/"
         },
         {
             "name": "Netflix Clone",
-            "description": "I cloned netflix using HTML 5, CSS 3, and Bootstrap.",
-            "image": "...",
+            "description": "I cloned netflix using HTML 5, CSS, and Bootstrap.",
+            "image": "https://i.postimg.cc/rpV4yNbj/Screenshot-2023-10-31-215447.png",
             "gitHub": "https://github.com/keeefles/netflix.git",
             "netlify": "https://6541583d31c39a4eaa803fc4--aakeefahs-netflix.netlify.app/"
         },
         {
-            "name": "JT Laptop",
+            "name": "Home Appeal",
             "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
-            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
-            "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
-            "netlify": "https://jtlaptops.netlify.app/"
+            "image": "https://i.postimg.cc/4yq6msXL/Screenshot-2024-01-10-100220.png",
+            "gitHub": "https://github.com/keeefles/theHomeStore.git",
+            "netlify": "https://aakeefah-homeappeal.netlify.app"
         },
         {
-            "name": "JS Portfolio",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
-            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
-            "netlify": "https://joeljsportfolio.netlify.app/"
+            "name": "Keyboard",
+            "description": "I built my portfolio using HTML 5 and CSS",
+            "image": "https://i.postimg.cc/hG4KZxL5/Screenshot-2023-11-01-095331.png",
+            "gitHub": "https://github.com/keeefles/keyboard.git",
+            "netlify": "https://6539266817649800075ac079--mykeyboardd.netlify.app/"
         }
     ]
 }
