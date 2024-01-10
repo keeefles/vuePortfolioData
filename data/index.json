@@ -2,7 +2,8 @@
         "Hello, welcome to my vueJs Portfolio. I am Aakeefah Jones, Software Engineer student at Life Choices academy. My hobbies include cooking, gaming, coding, reading and writing. Pursuing one of those hobbies ended up working for me. Take a guess at which one I chose."
     ],
     "about": [
-        "Hi! My name is Aakeefah Jones. I am an 18 year old Full-Stack Developer who thrives in Frontend Developing. My current skills include HTML 5, CSS, JavaScript, and vueJS. My coding journey began back in 2020 where I took CAT as a subject and had to learn about coding for the final part of our Practical Assignments. After graduating high school, I took it upon myself to apply for Life Choices coding academy and was successful on the first try. With a few bumps on the road, I found myself able to cope and learn in ways I never thought possible. The coding academy has taught me and continues to teach me all about different ways to interpret languages and what to do with them. This resulted in me growing in more ways than one because the academy teaches you about more than just coding and programming languages but about yourself and how to set goals, maintain good lifetyles and how to go about everyday experiences."
+        "Hi! My name is Aakeefah Jones. I am an 18 year old Full-Stack Developer who thrives in Frontend Developing. My current skills include HTML 5, CSS, JavaScript, and vueJS. My coding journey began back in 2020 where I took CAT as a subject and had to learn about coding for the final part of our Practical Assignments.",
+        "After graduating high school, I took it upon myself to apply for Life Choices coding academy and was successful on the first try. With a few bumps on the road, I found myself able to cope and learn in ways I never thought possible. The coding academy has taught me and continues to teach me all about different ways to interpret languages and what to do with them. This resulted in me growing in more ways than one because the academy teaches you about more than just coding and programming languages but about yourself and how to set goals, maintain good lifetyles and how to go about everyday experiences."
     ],
     "resume": [
         {
@@ -124,21 +125,28 @@
         },
         {
             "name": "BMI Calculator",
-            "description": "I built this app using HTML 5, CSS, and Bootstrap.",
+            "description": "I built this application using HTML 5, CSS, and Bootstrap.",
             "image": "https://iili.io/J763A7a.md.png",
             "gitHub": "https://github.com/keeefles/bmiCalculator.git",
             "netlify": "https://bmicalculator-keeefles.netlify.app"
         },
         {
             "name": "Home Appeal",
-            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
+            "description": "My eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
             "image": "https://iili.io/J74mCpS.md.png",
             "gitHub": "https://github.com/keeefles/theHomeStore.git",
             "netlify": "https://aakeefah-homeappeal.netlify.app"
         },
         {
+            "name": "Portfolio",
+            "description": "My first portfolio created. I made use of HTML 5 and CSS 3",
+            "image": "https://i.postimg.cc/pL37M2ww/Screenshot-2024-01-10-201922.png",
+            "gitHub": "https://github.com/keeefles/Portfolio.git",
+            "netlify": "https://aakeefahsportfolio.netlify.app/"
+        },
+        {
             "name": "Keyboard",
-            "description": "I built my portfolio using HTML 5 and CSS",
+            "description": "I built this keyboard using HTML 5 and CSS only",
             "image": "https://iili.io/J74DtO7.md.png",
             "gitHub": "https://github.com/keeefles/keyboard.git",
             "netlify": "https://6539266817649800075ac079--mykeyboardd.netlify.app/"
