@@ -106,7 +106,7 @@
             "description": "I built this application using HTML 5, CSS, vue 3 and Javascript.",
             "image": "https://i.postimg.cc/2SVy8M6J/Screenshot-2024-01-10-100605.png",
             "gitHub": "https://github.com/keeefles/counterApp.git",
-            "netlify": "https://keeefles-counterapp.netlify.app"
+            "netlify": "https://keeefles-counterapp.netlify.app/"
         },
         {
             "name": "Calculator",
