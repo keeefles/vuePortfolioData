@@ -58,46 +58,46 @@
     ],
     "testimonials": [
         {
-            "name": "Ni-Shaat",
-            "surname": "Gafieldien",
-            "title": "Student",
-            "quotes": "Joel never ceases to amaze me with the vast amount of knowledge he has acquired over the years in software development. He is truly a great mentor.",
-            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
-        },
-        {
             "name": "Zubair",
             "surname": "Moerat",
             "title": "Student",
-            "quotes": "Joel is a nice person. Someone who is really reliable and honest always does his work and makes sure everything is well organized.",
+            "quotes": "",
+            "profile": ""
+        },
+        {
+            "name": "Ni-Shaat",
+            "surname": "Gafieldien",
+            "title": "Student",
+            "quotes": "",
             "profile": ""
         },
         {
             "name": "Tamlin Leigh",
             "surname": "Geyer",
             "title": "Student",
-            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies.",
+            "quotes": "",
             "profile": ""
         },
         {
             "name": "Muttaqeen",
             "surname": "Slamat",
             "title": "Student",
-            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies.",
+            "quotes": "",
             "profile": ""
         },
         {
             "name": "Al-Muakhir",
             "surname": "Jones",
             "title": "Student",
-            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies.",
+            "quotes": "",
             "profile": ""
         },
         {
             "name": "Matthew",
             "surname": "Brown",
             "title": "Lecturer",
-            "quotes": "Joel Tshimanga Mukunya is an incredibly humble intellectual. He is an outstanding lecturer who consistently finds effective ways to ensure that everyone comprehends the content. Additionally, he has a delightful personality, making him a joy to be around.",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "quotes": "",
+            "profile": ""
         }
     ],
     "projects":[
@@ -121,6 +121,13 @@
             "image": "https://iili.io/J74mU6G.md.png",
             "gitHub": "https://github.com/keeefles/netflix.git",
             "netlify": "https://6541583d31c39a4eaa803fc4--aakeefahs-netflix.netlify.app/"
+        },
+        {
+            "name": "BMI Calculator",
+            "description": "I built this app using HTML 5, CSS, and Bootstrap.",
+            "image": "https://iili.io/J763A7a.md.png",
+            "gitHub": "https://github.com/keeefles/bmiCalculator.git",
+            "netlify": "https://bmicalculator-keeefles.netlify.app"
         },
         {
             "name": "Home Appeal",
