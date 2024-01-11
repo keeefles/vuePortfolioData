@@ -16,21 +16,21 @@
         {
             "id": 2,
             "year": 2023,
-            "description": "Sales Representative",
+            "info": "Sales Representative",
             "place": "Crescent Lifestyle",
             "type": "Job"
         },
         {
             "id": 3,
             "year": 2022,
-            "description": "Matric - Grade 12",
+            "info": "Matric - Grade 12",
             "place": "Glendale Secondary School",
             "type": "Certificate"
         },
         {
             "id": 4,
             "year": 2017,
-            "description": "Graduated Primary School",
+            "info": "Graduated Primary School",
             "place": "Spineview Primary School",
             "type": "Certificate"
         }
