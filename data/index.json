@@ -9,28 +9,28 @@
         {
             "id": 1,
             "year": 2023,
-            "info": "Studied Web Development",
+            "information": "Studied Web Development",
             "place": "Life Choices",
             "type": "Currently Acquiring Certificate..."
         },
         {
             "id": 2,
             "year": 2023,
-            "info": "Sales Representative",
+            "information": "Sales Representative",
             "place": "Crescent Lifestyle",
             "type": "Job"
         },
         {
             "id": 3,
             "year": 2022,
-            "info": "Matric - Grade 12",
+            "information": "Matric - Grade 12",
             "place": "Glendale Secondary School",
             "type": "Certificate"
         },
         {
             "id": 4,
             "year": 2017,
-            "info": "Graduated Primary School",
+            "information": "Graduated Primary School",
             "place": "Spineview Primary School",
             "type": "Certificate"
         }
