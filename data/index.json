@@ -2,9 +2,10 @@
         "Hello, welcome to my vueJs Portfolio. I am Aakeefah Jones, Software Engineer student at Life Choices academy. My hobbies include cooking, gaming, coding, reading and writing. Pursuing one of those hobbies ended up working for me. Take a guess at which one I chose."
     ],
     "about": [
-        "Hey there! I'm Aakeefah, an 18-year-old full-stack developer who's all about making cool websites and stuff. I got into the tech world because I love making things look awesome and work smoothly for people. If you couldn't tell - I really love Frontend Developing.",
-        "I'm kinda obsessed with the design side of things, making sure it's not just lines of code but actually looks really good. And guess what? I'm not stopping there. I've got big dreams of turning my coding skills into a business. I want to create websites that go beyond the usual and give people experiences they didn't even know they wanted.",
-        "If you're into cool tech stuff or have ideas to share, hit me up! I'm open to teaming up or getting involved in exciting projects. Check out the rest of my Portfolio!"
+        "Hey there! I'm Aakeefah Jones, a 19-year-old full-stack developer who's all about making cool websites and stuff. I got into the tech world because I love making things look awesome and work smoothly for people. If you couldn't tell - I really love Frontend Developing.",
+        "I'm kinda obsessed with the design side of things, making sure it's not just lines of code but actually looks really good. I've got big dreams of turning my coding skills into a business. I want to create websites that go beyond the usual and give people experiences they didn't even know they wanted.",
+        "Born 3 Febraury 2005, in the lovely city of Cape Town, however raised in Mitchells Plain, I've grown to love coding because of my dad's passion for technology since I was younger.",
+        "If you're into cool tech stuff or have ideas to share, hit me up! (I speak two English and Afrikaans too if you're looking for a candidate whose multilingual *insert wink*). I'm open to teaming up or getting involved in exciting projects. Check out the rest of my Portfolio!"
     ],
     "resume": [
         {
@@ -17,7 +18,7 @@
         },
         {
             "id": 2,
-            "year": 2023,
+            "year": "April 2023 - May 2023",
             "information": "Sales Representative",
             "place": "Crescent Lifestyle",
             "role": "Called people and got them to purchase a membership.",
@@ -77,7 +78,7 @@
             "name": "Zubair",
             "surname": "Moerat",
             "title": "Student",
-            "quotes": "I highly recommend Aakeefah Jones as a software developer. Her technical expertise, commitment to quality, and strong communication skills make her an asset to any team. I look forward to the opportunity to work with her again in the future.",
+            "quotes": "I highly recommend Aakeefah Jones as a software developer. Her technical expertise and commitment to quality make her an asset to any team. I look forward to the opportunity to work with her again in the future.",
             "profile": "https://iili.io/J76UekJ.md.jpg"
         },
         {
