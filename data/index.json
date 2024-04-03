@@ -6,14 +6,14 @@
         "I'm kinda obsessed with the design side of things, making sure it's not just lines of code but actually looks really good. I've got big dreams of turning my coding skills into a business. I want to create websites that go beyond the usual and give people experiences they didn't even know they wanted.",
         "If you're into cool tech stuff or have ideas to share, hit me up! (I speak two English and Afrikaans too if you're looking for a candidate whose multilingual *wink wink ;)* ). I'm open to teaming up or getting involved in exciting projects. Check out the rest of my Portfolio!"
     ],
-    "resume": [
+    "experience": [
         {
             "id": 1,
-            "year": 2023,
-            "information": "Studied Web Development",
-            "place": "Life Choices",
-            "role": "Started a 12 month course in the IT industry.",
-            "type": "Acquiring Certificate..."
+            "year": "April 2024 - Present",
+            "information": "Intern",
+            "place": "LC Studio",
+            "role": "Make use of my technical skills to creates websites for clients.",
+            "type": "Job" 
         },
         {
             "id": 2,
@@ -21,10 +21,20 @@
             "information": "Sales Representative",
             "place": "Crescent Lifestyle",
             "role": "Called people and got them to purchase a membership.",
-            "type": "Job"
+            "type": "Job" 
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2023,
+            "information": "Studied Web Development",
+            "place": "Life Choices",
+            "role": "Started a 12 month course in the IT industry.",
+            "type": "Graduated"
         },
         {
-            "id": 3,
+            "id": 2,
             "year": 2022,
             "information": "Matric - Grade 12",
             "place": "Glendale Secondary School",
@@ -32,7 +42,7 @@
             "type": "Certificate"
         },
         {
-            "id": 4,
+            "id": 3,
             "year": 2017,
             "information": "Graduated Primary School",
             "place": "Spineview Primary School",
