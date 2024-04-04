@@ -82,6 +82,38 @@
             "experience": "Advanced"
         }
     ],
+    "softSkills": [
+        {
+            "image": "https://iili.io/JN1W6Bf.png",
+            "title": "Attention to Detail",
+            "description": "Ability to be thorough and accurate in your work."
+        },
+        {
+            "image": "https://iili.io/JN1kMiX.png",
+            "title": "Creativity",
+            "description": "A broad term that involves skills from questioning to experimenting."
+        },
+        {
+            "image": "https://iili.io/JN1kwJf.png",
+            "title": "Time Management",
+            "description": "Using time wisely to work as efficiently as possible."
+        },
+        {
+            "image": "https://iili.io/JN1ksOQ.png",
+            "title": "Adaptibility",
+            "description": "My ability to embrace change and adjust to it with ease."
+        },
+        {
+            "image": "https://iili.io/JN1kHtS.png",
+            "title": "Communication",
+            "description": "the ability to convey or share ideas and feelings effectively."
+        },
+        {
+            "image": "https://iili.io/JN1kuiF.png",
+            "title": "Interpersonal Skills",
+            "description": "Abilty to interact and make a positive impression on others."
+        }
+    ],
     "testimonials": [
         {
             "name": "Zubair",
