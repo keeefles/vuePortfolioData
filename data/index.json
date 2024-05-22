@@ -24,6 +24,29 @@
             "type": "Job" 
         }
     ],
+    "badges": [
+        {
+            "id": 1,
+            "year": "April 2024",
+            "name": "LC Scrum Hackathon",
+            "place": "LC Studio",
+            "image": "https://iili.io/JiWHxiF.png" 
+        },
+        {
+            "id": 2,
+            "year": "April 2024",
+            "name": "Operating System Basics",
+            "place": "Cisco",
+            "image": "https://iili.io/JiVmFj9.md.png" 
+        },
+        {
+            "id": 3,
+            "year": "May 2024",
+            "name": "Junior CyberSecurity Analyst",
+            "place": "Cisco",
+            "image": "https://iili.io/JiGcY8v.png" 
+        }
+    ],
     "education": [
         {
             "id": 1,
