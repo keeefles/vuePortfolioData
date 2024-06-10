@@ -45,6 +45,13 @@
             "name": "Junior CyberSecurity Analyst",
             "place": "Cisco",
             "image": "https://iili.io/JiGcY8v.png" 
+        },
+        {
+            "id": 4,
+            "year": "June 2024",
+            "name": "Ethical Hacker",
+            "place": "Cisco",
+            "image": "https://iili.io/JyE58X4.png" 
         }
     ],
     "education": [
