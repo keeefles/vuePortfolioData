@@ -9,6 +9,14 @@
     "experience": [
         {
             "id": 1,
+            "year": "June 2024 - Present",
+            "information": "Web Development Intern",
+            "place": "WBWR",
+            "role": "Learning new programming languages and shadowing seniors.",
+            "type": "Job" 
+        },
+        {
+            "id": 2,
             "year": "April 2024 - June 2024",
             "information": "Intern",
             "place": "LC Studio",
@@ -16,7 +24,7 @@
             "type": "Job" 
         },
         {
-            "id": 2,
+            "id": 3,
             "year": "April 2023 - May 2023",
             "information": "Sales Representative",
             "place": "Crescent Lifestyle",
